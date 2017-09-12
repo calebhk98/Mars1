@@ -1,0 +1,6 @@
+9/11/17
+	Start first project on Github
+	Set up liscence
+	Set up changelog
+	Finding which language to use
+	
