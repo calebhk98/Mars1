@@ -3,4 +3,5 @@
 	Set up liscence
 	Set up changelog
 	Finding which language to use
+	It has been suggested to use C# to do this, so starting with that
 	
